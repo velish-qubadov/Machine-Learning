@@ -1,9 +1,67 @@
 # Machine-Learning
-| File Name                             | Description                                                                                                                                                |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Classification(MNIST).ipynb**       | Implements classification models on the MNIST handwritten digits dataset using algorithms such as `LogisticRegression`, `KNN`, `SVM`, and `SGDClassifier`. |
-| **Decision\_Trees(Iris).ipynb**       | Demonstrates decision tree classification using the Iris dataset, including model training, visualization, and interpretation.                             |
-| **Ensemble\_Learning\_Methods.ipynb** | Covers ensemble techniques like Bagging, Random Forest, AdaBoost, and how they improve model performance.                                                  |
-| **Full\_pipeline.ipynb**              | Builds a complete ML pipeline for a real-world dataset: preprocessing, feature transformation, model training, and evaluation.                             |
-| **House\_data.ipynb**                 | Predicts house prices using regression models. Focuses on data cleaning, feature engineering, and model optimization.                                      |
-| **Linear\_models.ipynb**              | Provides detailed examples of Linear Regression and Logistic Regression, including model training and evaluation.                                          |
+This repository contains a collection of hands-on Jupyter Notebooks that demonstrate the foundations of machine learning using Python and the scikit-learn library. It is designed for learners who want to understand how to apply ML techniques on real-world datasets.
+
+1. Supervised Learning
+Classification
+
+Working with image and tabular data
+
+Label prediction using models like:
+
+Logistic Regression
+
+K-Nearest Neighbors (KNN)
+
+Decision Trees
+
+Support Vector Machines (SVM)
+
+Regression
+
+Predicting continuous values (e.g., house prices)
+
+Techniques include:
+
+Linear Regression
+
+Regularization methods (Ridge, Lasso)
+
+2. Ensemble Methods
+Combining multiple models to improve performance:
+
+Bagging (e.g., Random Forest)
+
+Boosting (e.g., AdaBoost)
+
+Bias-variance trade-off and model stability
+
+3. Model Evaluation & Tuning
+Cross-validation
+
+Accuracy, precision, recall, F1-score
+
+Confusion matrix
+
+ROC-AUC curve
+
+Grid search for hyperparameter tuning
+
+4. Data Preprocessing & Pipelines
+Handling missing values
+
+Feature scaling (Standardization, Normalization)
+
+Encoding categorical variables
+
+Full ML pipeline construction using Pipeline and ColumnTransformer
+
+5. Working with Popular Datasets
+MNIST (handwritten digit recognition)
+
+Iris (flower classification)
+
+California Housing dataset (price prediction)
+
+Synthetic or custom datasets for demonstration
+
+
