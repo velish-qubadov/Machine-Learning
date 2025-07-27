@@ -4,6 +4,7 @@ This repository contains a collection of hands-on Jupyter Notebooks that demonst
 
 ## Included Topics
 **1. Supervised Learning**
+-
 
 **Classification:**
 
@@ -24,6 +25,7 @@ Predicting continuous values (e.g., house prices)
 -Regularization methods (Ridge, Lasso)
 
 **2. Ensemble Methods**
+-
    
 Combining multiple models to improve performance:
 
@@ -34,6 +36,7 @@ Combining multiple models to improve performance:
 -Bias-variance trade-off and model stability
 
 **3. Model Evaluation & Tuning**
+-
 
 -Cross-validation
 
@@ -46,6 +49,7 @@ Combining multiple models to improve performance:
 -Grid search for hyperparameter tuning
 
 **4. Data Preprocessing & Pipelines**
+-
 
 -Handling missing values
 
@@ -56,14 +60,14 @@ Combining multiple models to improve performance:
 -Full ML pipeline construction using Pipeline and ColumnTransformer
 
 **5. Working with Popular Datasets**
+-
    
 -MNIST (handwritten digit recognition)
 
 -Iris (flower classification)
--
 
 -California Housing dataset (price prediction)
--
-Synthetic or custom datasets for demonstration
+
+-Synthetic or custom datasets for demonstration
 
 
