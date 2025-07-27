@@ -68,6 +68,5 @@ Combining multiple models to improve performance:
 
 -California Housing dataset (price prediction)
 
--Synthetic or custom datasets for demonstration
 
 
