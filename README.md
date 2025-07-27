@@ -1,67 +1,69 @@
 # Machine-Learning
+## Overview
 This repository contains a collection of hands-on Jupyter Notebooks that demonstrate the foundations of machine learning using Python and the scikit-learn library. It is designed for learners who want to understand how to apply ML techniques on real-world datasets.
 
-1. Supervised Learning
-Classification
+## Included Topics
+**1. Supervised Learning**
 
-Working with image and tabular data
+**Classification:**
 
-Label prediction using models like:
+Predicting label(e.g., mnist)
 
-Logistic Regression
+-Logistic Regression
 
-K-Nearest Neighbors (KNN)
+-Decision Trees
 
-Decision Trees
+-Support Vector Machines (SVM)
 
-Support Vector Machines (SVM)
-
-Regression
+**Regression:**
 
 Predicting continuous values (e.g., house prices)
 
-Techniques include:
+-Linear Regression
 
-Linear Regression
+-Regularization methods (Ridge, Lasso)
 
-Regularization methods (Ridge, Lasso)
-
-2. Ensemble Methods
+**2. Ensemble Methods**
+   
 Combining multiple models to improve performance:
 
-Bagging (e.g., Random Forest)
+-Bagging (e.g., Random Forest)
 
-Boosting (e.g., AdaBoost)
+-Boosting (e.g., AdaBoost)
 
-Bias-variance trade-off and model stability
+-Bias-variance trade-off and model stability
 
-3. Model Evaluation & Tuning
-Cross-validation
+**3. Model Evaluation & Tuning**
 
-Accuracy, precision, recall, F1-score
+-Cross-validation
 
-Confusion matrix
+-Accuracy, precision, recall, F1-score
 
-ROC-AUC curve
+-Confusion matrix
 
-Grid search for hyperparameter tuning
+-ROC-AUC curve
 
-4. Data Preprocessing & Pipelines
-Handling missing values
+-Grid search for hyperparameter tuning
 
-Feature scaling (Standardization, Normalization)
+**4. Data Preprocessing & Pipelines**
 
-Encoding categorical variables
+-Handling missing values
 
-Full ML pipeline construction using Pipeline and ColumnTransformer
+-Feature scaling (Standardization, Normalization)
 
-5. Working with Popular Datasets
-MNIST (handwritten digit recognition)
+-Encoding categorical variables
 
-Iris (flower classification)
+-Full ML pipeline construction using Pipeline and ColumnTransformer
 
-California Housing dataset (price prediction)
+**5. Working with Popular Datasets**
+   
+-MNIST (handwritten digit recognition)
 
+-Iris (flower classification)
+-
+
+-California Housing dataset (price prediction)
+-
 Synthetic or custom datasets for demonstration
 
 
