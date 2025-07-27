@@ -1,6 +1,7 @@
 # Machine-Learning
+
 ## Overview
-This repository contains a collection of hands-on Jupyter Notebooks that demonstrate the foundations of machine learning using Python and the scikit-learn library. It is designed for learners who want to understand how to apply ML techniques on real-world datasets.
+This repo contains practical Jupyter Notebooks with machine learning experiments using Python and scikit-learn on popular datasets. It’s focused on learning by doing and applying ML methods step-by-step.
 
 ## Included Topics
 
